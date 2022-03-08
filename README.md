@@ -1,7 +1,7 @@
 # careerpal-advert-website
 
 
-This is a  website that acts as a source of information to careerpal pal global which is the parent site
+This is the main  website that acts as a source of information to careerpal pal global which is the parent site
 
 ## Technologies used
 
