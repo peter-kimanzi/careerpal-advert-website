@@ -8,7 +8,8 @@ This is a  website that acts as a source of information to careerpal pal global 
 Html 
 CSS
 JQUERY
+GSAP
 
 ## Site can be viewed here
 
-https://peter-kimanzi.github.io/cpalglobal/
+
